@@ -2,13 +2,19 @@
 
 ## Description
 
-This program is a simple hangman game created in Python.
+---------------------------------
 
-### Syntax: 
+This program is a simple graphics hangman game created in Python.
+
+### Syntax
+
+---------------------------------
 
 * python3 main.py
 
 ### Details
+
+---------------------------------
 
 The user needs to guess the word that is randomly chosen from the list of words saved in the twl98.txt file. 
 <br> If the user inputs a letter, the program will respond whether or not the letter is in the randomly chosen word. 
@@ -60,7 +66,7 @@ HANGMAN: __________
 
 #### Graphics Output 
 
-<img src="https://github.com/shkim2001/hangman/blob/main/exampleWin.png?raw=true" width="128"/>
+<img src="https://github.com/shkim2001/hangman/blob/main/exampleWin.png?raw=true"/>
 
 #### Terminal Output
 ---------------------------------
@@ -93,6 +99,6 @@ HANGMAN: __________
 
 #### Graphics Output 
 
-<img src="https://github.com/shkim2001/hangman/blob/main/exampleLose.png?raw=true" width="128"/>
+<img src="https://github.com/shkim2001/hangman/blob/main/exampleLose.png?raw=true"/>
 
 ---------------------------------
