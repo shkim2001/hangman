@@ -27,7 +27,7 @@ The user needs to guess the word that is randomly chosen from the list of words 
 ### Example 
 ---------------------------------
 
-When user wins :
+### When user wins :
 
 ---------------------------------
 
@@ -75,7 +75,7 @@ HANGMAN: __________
 
 ---------------------------------
 
-When user loses :
+### When user loses :
 
 ---------------------------------
 
