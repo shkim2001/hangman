@@ -25,9 +25,14 @@ The user needs to guess the word that is randomly chosen from the list of words 
 <br> If the user needs a hint, the user is allowed to type in 'hint', which would give them one of the letters that are not yet revealed. 
 
 ### Example 
+---------------------------------
+
+When user wins :
+
+---------------------------------
+
 
 #### Terminal Output
----------------------------------
 
 HANGMAN: __________
 <br> Guess a letter, or type hint if you would like a hint!hint
@@ -68,8 +73,13 @@ HANGMAN: __________
 
 <img src="https://github.com/shkim2001/hangman/blob/main/exampleWin.png?raw=true"/>
 
-#### Terminal Output
 ---------------------------------
+
+When user loses :
+
+---------------------------------
+
+#### Terminal Output
 
 <br> HANGMAN: ____
 <br> Guess a letter, or type hint if you would like a hint!h
